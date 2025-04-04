@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
 
 <div align="center">
-  <h1 align="center">👋 Olá! Eu sou <span style="color:#5cadc0; animation: pulse 1s infinite;">Luan Nunes Machado</span></h1>
+  <h1 align="center">👋 Olá! Eu sou o <span style="color:#5cadc0; animation: pulse 1s infinite;">Luan</span></h1>
   <h3>Desenvolvedor em formação | Foco em Redes, Automação e Python</h3>
 </div>
 
@@ -15,15 +15,15 @@ Busco oportunidades que me permitam automatizar processos e desenvolver soluçõ
 ---
 
 ### 🎓 Formação Acadêmica
-- <strong>Análise e Desenvolvimento de Sistemas</strong> — Universidade Anhanguera *(2026)*
+- <strong>Análise e Desenvolvimento de Sistemas</strong> — faculdade Anhanguera 
 
 ---
 
-### 💼 Experiência Profissional
+### 💼 Minhas Experiências Profissionais
 - <strong>Analista de Telecomunicações Jr</strong> *(2024 - atual)*  
-  Monitoramento de redes, suporte técnico e diagnóstico de falhas.
+  Monitoramento de redes, automações e diagnóstico de falhas.
 - <strong>Auxiliar Administrativo (NOC)</strong> *(2023 - 2024)*  
-  Automatização de tarefas com Python e geração de relatórios técnicos.
+  Automatização de tarefas com Python/javaScript e tarefas diaria de NOC.
 - <strong>Alimentador de Linha de Produção</strong> *(2024)*  
   Apoio logístico e organização de materiais na linha produtiva.
 
@@ -32,6 +32,7 @@ Busco oportunidades que me permitam automatizar processos e desenvolver soluçõ
 ### 🧠 Habilidades Técnicas
 ```text
 • Python | JavaScript | HTML | CSS
+• Automações | Automação WEB | Selenium 
 • Redes de Computadores | TCP/IP | IPv4
 • Zabbix | Netcore | Remedy | Google Workspace
 • Windows | Linux | Git | Packet Tracer
@@ -67,7 +68,9 @@ Busco oportunidades que me permitam automatizar processos e desenvolver soluçõ
 ---
 
 ### 🌍 Idiomas
+- Português — Fluente
 - Inglês — intermediário
+- Espanhol — Básico
 
 ---
 
