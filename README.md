@@ -23,7 +23,7 @@ Busco oportunidades que me permitam automatizar processos e desenvolver soluçõ
 - <strong>Analista de Telecomunicações Jr</strong> *(2024 - atual)*  
   Monitoramento de redes, automações e diagnóstico de falhas.
 - <strong>Auxiliar Administrativo (NOC)</strong> *(2023 - 2024)*  
-  Automatização de tarefas com Python/javaScript e tarefas diaria de NOC.
+  Automações de tarefas com Python/javaScript e tarefas diarias do NOC.
 - <strong>Alimentador de Linha de Produção</strong> *(2024)*  
   Apoio logístico e organização de materiais na linha produtiva.
 
