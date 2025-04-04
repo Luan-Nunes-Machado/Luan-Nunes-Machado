@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=7e57c2&section=header" />
+</p>
 
 <div align="center">
   <h1 align="center">👋 Olá! Eu sou o <span style="color:#5cadc0; animation: pulse 1s infinite;">Luan</span></h1>
@@ -86,12 +88,6 @@ Busco oportunidades que me permitam automatizar processos e desenvolver soluçõ
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
-
-<style>
-@keyframes pulse {
-  0% { opacity: 1; }
-  50% { opacity: 0.5; }
-  100% { opacity: 1; }
-}
-</style>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=7e57c2&section=footer" />
+</p>
