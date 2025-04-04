@@ -77,10 +77,12 @@ Busco oportunidades que me permitam automatizar processos e desenvolver soluçõ
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luannunesmachado&theme=github_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luannunesmachado&theme=github_dark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luannunesmachado&theme=github-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luannunesmachado&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannunesmachado&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luannunesmachado&theme=github-dark" />
 </p>
+
+
 
 ---
 
