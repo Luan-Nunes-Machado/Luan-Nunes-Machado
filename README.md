@@ -1,9 +1,7 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=7e57c2&section=header" />
-</p>
+
 
 <div align="center">
-  <h1 align="center">👋 Olá! Eu sou o <span style="color:#5cadc0; animation: pulse 1s infinite;">Luan</span></h1>
+  <h1 align="center">👋 Olá! Eu sou o <span style="color:#b39ddb; animation: pulse 1s infinite;">Luan</span></h1>
   <h3>Desenvolvedor em formação | Foco em Redes, Automação e Python</h3>
 </div>
 
@@ -17,15 +15,17 @@ Busco oportunidades que me permitam automatizar processos e desenvolver soluçõ
 ---
 
 ### 🎓 Formação Acadêmica
-- <strong>Análise e Desenvolvimento de Sistemas</strong> — faculdade Anhanguera 
+- <strong>Análise e Desenvolvimento de Sistemas</strong> — Faculdade Anhanguera
 
 ---
 
 ### 💼 Minhas Experiências Profissionais
 - <strong>Analista de Telecomunicações Jr</strong> *(2024 - atual)*  
   Monitoramento de redes, automações e diagnóstico de falhas.
+  
 - <strong>Auxiliar Administrativo (NOC)</strong> *(2023 - 2024)*  
-  Automações de tarefas com Python/javaScript e tarefas diarias do NOC.
+  Automações de tarefas com Python/JavaScript e rotinas operacionais do NOC.
+  
 - <strong>Alimentador de Linha de Produção</strong> *(2024)*  
   Apoio logístico e organização de materiais na linha produtiva.
 
@@ -53,27 +53,25 @@ Busco oportunidades que me permitam automatizar processos e desenvolver soluçõ
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
-</p>
-
 ---
 
 ### 📚 Certificações
-- Python 3 do Básico ao Avançado — Udemy 
-- Lógica de Programação — iTalents 
-- Redes de Computadores — Curso em Vídeo 
-- Endereçamento IPv4 — Curso em Vídeo 
-- Power BI — Fundação Bradesco 
-- LGPD — Senai 
-- TIC — Senai 
-- Informática Completa — Microcamp 
-- Inglês — Kultivi / New U-Best 
+- Python 3 do Básico ao Avançado — Udemy  
+- Lógica de Programação — iTalents  
+- Redes de Computadores — Curso em Vídeo  
+- Endereçamento IPv4 — Curso em Vídeo  
+- Power BI — Fundação Bradesco  
+- LGPD — Senai  
+- TIC — Senai  
+- Informática Completa — Microcamp  
+- Inglês — Kultivi / New U-Best  
 
 ---
 
 ### 🌍 Idiomas
-- Português — Fluente
-- Inglês — intermediário
-- Espanhol — Básico
+- Português — Fluente  
+- Inglês — Intermediário  
+- Espanhol — Básico  
 
 ---
 
@@ -84,10 +82,9 @@ Busco oportunidades que me permitam automatizar processos e desenvolver soluçõ
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luannunesmachado&theme=github-dark" />
 </p>
 
-
-
 ---
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=7e57c2&section=footer" />
 </p>
+
